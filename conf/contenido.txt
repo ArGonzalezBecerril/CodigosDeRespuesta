@@ -1,0 +1,232 @@
+<!DOCTYPE html xmlns:v="urn:schemas-microsoft-com:vml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+    <meta name=viewport content="width=device-width,initial-scale=1">
+    <meta http-equiv=X-UA-Compatible content="IE=edge,chrome=1">
+    <meta name=format-detection content="telephone=no">
+    <style type="”text/css”">
+       v\:* { behavior: url(#default#VML); display:inline-block}
+     </style>
+    <title>Reporte de Transacciones declinadas con c&oacute;digo 91: </title>
+    <style type=text/css>
+                        .tg  {border-collapse:collapse;border-spacing:0;border-color:#ccc;width: 100%;}
+                        .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#000;color:#333;background-color:#fff;}
+                        .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#000;color:#333;background-color:#f0f0f0;}
+                        .tg .tg-baqh{background-color:#CCCCCC;text-align:center;vertical-align:top}
+
+                        .tg .tg-s01{background-color:#FF331F;text-align:center;vertical-align:top}
+                        .tg .tg-s02{background-color:#FF6047;text-align:center;vertical-align:top}
+                        .tg .tg-s03{background-color:#FF8B47;text-align:center;vertical-align:top}
+                        .tg .tg-s04{background-color:#FFBB75;text-align:center;vertical-align:top}
+                        .tg .tg-s05{background-color:#FFD96E;text-align:center;vertical-align:top}
+                        .tg .tg-s06{background-color:#CAFF76;text-align:center;vertical-align:top}
+                        .tg .tg-s07{background-color:#7AFF78;text-align:center;vertical-align:top}
+                        .tg .tg-s08{background-color:#78FFC7;text-align:center;vertical-align:top}
+                        .tg .tg-s09{background-color:#78FFF9;text-align:center;vertical-align:top}
+                        .tg .tg-s10{background-color:#78D3FF;text-align:center;vertical-align:top}
+
+                        .tg .tg-s00{background-color:#CCCCCC;text-align:center;vertical-align:top}
+
+                        hr.style8 { 
+                          height: 30px; 
+                          border-style: solid; 
+                          border-color: #8c8b8b; 
+                          border-width: 1px 0 0 0; 
+                          border-radius: 20px; 
+                        } 
+                        hr.style8:before { 
+                          display: block; 
+                          content: ""; 
+                          height: 30px; 
+                          margin-top: -31px; 
+                          border-style: solid; 
+                          border-color: #8c8b8b; 
+                          border-width: 0 0 1px 0; 
+                          border-radius: 20px; 
+                        }
+                   </style>
+                  
+    
+</head>
+<body bgcolor=#E1E1E1 leftmargin=0 marginwidth=0 topmargin=0 marginheight=0 offset=0>
+<center style=background-color:#E1E1E1>
+  <script src="http://cdnjs.cloudflare.com/ajax/libs/jspdf/0.9.0rc1/jspdf.min.js"></script>
+    <table border=0 cellpadding=0 cellspacing=0 height=100% width=100% id="bodyTable">
+        <tr>
+            <td align=center valign=top id="bodyCell">
+                <table bgcolor=#E1E1E1 border=0 cellpadding=0 cellspacing=0 width=1000 id="emailHeader" style="border-radius: 20px;">
+                    <tr>
+                        <td align=center valign=top heigth=200>
+                            <table border=0 cellpadding=0 cellspacing=0 width=100%>
+                                <tr>
+                                    <td align=center valign=top>
+                                        <table border=0 cellpadding=10 cellspacing=0 width=1000 style="height: 15px;" class=flexibleContainer>
+                                            <tr>
+                                                <td valign=top width=400 heigh=300 class=flexibleContainerCell>
+                                                    <table align=left border=0 cellpadding=0 cellspacing=0 width=100%>
+                                                        <tr>
+                                                            <td align=left valign=middle id="invisibleIntroduction">
+                                                                <table border=0 cellpadding=0 cellspacing=0 width=100% style=max-width:100%>
+                                                                        <td align=left class=textContent>
+                                                                            <div style=font-family:Helvetica,Arial,sans-serif;font-size:13px;color:#828282;text-align:center;line-height:120%></div>
+                                                                        </td>
+                                                                </table>
+                                                            </td>
+                                                            <td align=right valign=middle class=flexibleContainerBox>
+                                                                <table border=0 cellpadding=0 cellspacing=0 width=100% style=max-width:100%>
+                                                                        <td align=left class=textContent></td>
+                                                                </table>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+                <!--Tabla header-->
+                <table bgcolor=#FFFFFF border=0 cellpadding=0 cellspacing=0 width=1000 style="height:100" id="emailBody" style="border-radius: 20px;">
+                    <tr>
+                        <td align=center valign=top  style="height:50px;">
+                                 <table style="background-image: url('http://www.tcimex.com/wp-content/uploads/clients/e-global.png');background-repeat:no-repeat-y;" cellpadding="0" width=100% bgcolor=#3498db>
+							            <!--[if gte vml 1]>
+							                    <v:shape 
+							                        stroked='f'
+							                         style='position:absolute;margin-left:-80pt;margin-top:-2.55pt;     
+							                                z-index:-503306481;
+							                                visibility:visible;
+							                                width:720pt;
+							                                height:475pt;           
+							                                top:0;
+							                                left:0;
+							                                border:0;                                               
+							                                '>
+							                        <v:imagedata src="hhttp://www.tcimex.com/wp-content/uploads/clients/e-global.png"/>
+							                    </v:shape>
+							            <![endif]-->
+                                <tr style="height:50px;">
+                                <!--Tabla encabezado-->
+                                    <td align=center valign=top>
+                                        <table border=0 cellpadding=0 cellspacing=0 width=1000 style="height:50px;" class=flexibleContainer>
+                                            <tr>
+                                                <td align=center valign=top width=600 class=flexibleContainerCell>
+                                                    <table border=0 cellpadding=30 cellspacing=0 width=100%>
+                                                        <tr>
+                                                            <td align=center  class=textContent style="padding-right: 0px;">
+                                                                <h1 style=line-height:100%;font-family:Helvetica,Arial,sans-serif;font-size:35px;font-weight:400;margin-bottom:5px;text-align:center;font-weight:bolder;>Prevenci&oacute;n de Fraudes</h1>
+                                                                <h2 style=text-align:center;font-weight:380;font-family:Helvetica,Arial,sans-serif;font-size:22px;margin-bottom:5px;color:#205478;>Transacciones declinadas con c&oacute;digo de respuesta 91 del #keyDate</h2>
+                                                                <div style=text-align:center;font-family:Helvetica,Arial,sans-serif;font-size:15px;margin-bottom:0;color:#FFF;line-height:135%></div>
+                                                            </td>
+                                                            <td style="margin: 0px; padding-left: 0px; padding-right: 0px;padding-top: 4px;">
+											                 <img src="cid:logo" style="float:left; margin-bottom:-5px;width: 200px;">
+											                </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                     <tr>
+                        <td valign="top" class="textContent">
+                            <h4 mc:edit="header" style="color:#5F5F5F;line-height:125%;font-family:Helvetica,Arial,sans-serif;font-size:20px;font-weight:400;margin-top:20px;margin-bottom:3px;text-align:center;font-weight:bolder;text-shadow: 0px 2px 3px #666;font-size: 130%"><span style="color:#5F5F5F;line-height:125%;font-family:Helvetica,Arial,sans-serif;font-size:20px;font-weight:400;margin-top:20px;margin-bottom:3px;text-align:center;font-weight:bolder;text-shadow: 0px 2px 3px #666;font-size: 130%">Bancomer</span></h4>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align=center valign=top>
+                            <table border=0 cellpadding=0 cellspacing=0 width=100% bgcolor=#F8F8F8>
+                                <tr>
+                                   <img src="cid:imgBancomerPos" style="height:99%;width:99%;overflow: hidden;"/>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                     <tr>
+                        <td valign="top" class="textContent">
+                            <h4 mc:edit="header" style="color:#5F5F5F;line-height:125%;font-family:Helvetica,Arial,sans-serif;font-size:20px;font-weight:400;margin-top:20px;margin-bottom:3px;text-align:center;font-weight:bolder;text-shadow: 0px 2px 3px #666;font-size: 130%"><span style="color:#5F5F5F;line-height:125%;font-family:Helvetica,Arial,sans-serif;font-size:20px;font-weight:400;margin-top:20px;margin-bottom:3px;text-align:center;font-weight:bolder;text-shadow: 0px 2px 3px #666;font-size: 130%">Bancomer</span></h4>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align=center valign=top>
+                            <table border=0 cellpadding=0 cellspacing=0 width=100% bgcolor=#F8F8F8>
+                                <tr>
+                                   <img src="cid:imgBancomerAtm" style="height:99%;width:99%;overflow: hidden;"/>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    <tr>
+                     <td>
+                         <hr style="  border: 0;height: 1px;background-image: -webkit-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);background-image: -moz-linear-gradient(left,          #f0f0f0, #8c8b8b, #f0f0f0);background-image: -ms-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);background-image: -o-linear-gradient(left, #f0f0f0,       #8c8b8b, #f0f0f0); "/>
+                     </td>
+                    </tr>
+                    <tr>
+                        <td valign="top" class="textContent">
+                            <h4 mc:edit="header" style="color:#5F5F5F;line-height:125%;font-family:Helvetica,Arial,sans-serif;font-size:20px;font-weight:400;margin-top:0;margin-bottom:3px;text-align:center;font-weight:bolder;text-shadow: 0px 2px 3px #666;font-size: 130%;"><span style="color:#5F5F5F;line-height:125%;font-family:Helvetica,Arial,sans-serif;font-size:20px;font-weight:400;margin-top:0;margin-bottom:3px;text-align:center;font-weight:bolder;text-shadow: 0px 2px 3px #666;font-size: 130%;">Banamex</span></h4>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align=center valign=top>
+                            <table border=0 cellpadding=0 cellspacing=0 width=100% bgcolor=#F8F8F8>
+                                <tr>
+                                  <img src="cid:imgBanamexPos" style="width:99%;height:99%;overflow: hidden;margin-left:10px;margin-right:10px;"/>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                     <tr>
+                        <td valign="top" class="textContent">
+                            <h4 mc:edit="header" style="color:#5F5F5F;line-height:125%;font-family:Helvetica,Arial,sans-serif;font-size:20px;font-weight:400;margin-top:0;margin-bottom:3px;text-align:center;font-weight:bolder;text-shadow: 0px 2px 3px #666;font-size: 130%;"><span style="color:#5F5F5F;line-height:125%;font-family:Helvetica,Arial,sans-serif;font-size:20px;font-weight:400;margin-top:0;margin-bottom:3px;text-align:center;font-weight:bolder;text-shadow: 0px 2px 3px #666;font-size: 130%;">Banamex</span></h4>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align=center valign=top>
+                            <table border=0 cellpadding=0 cellspacing=0 width=100% bgcolor=#F8F8F8>
+                                <tr>
+                                  <img src="cid:imgBanamexAtm" style="width:99%;height:99%;overflow: hidden;margin-left:10px;margin-right:10px;"/>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+                <table bgcolor=#E1E1E1 border=0 cellpadding=0 cellspacing=0 width=1000 height=200 id="emailFooter" >
+                    <tr>
+                        <td align=center valign=top>
+                            <table border=0 cellpadding=0 cellspacing=0 width=100% style="text-align: justify; text-justify: inter-word;">
+                                <tr>
+                                    <td align=center valign=top>
+                                        <table border=0 cellpadding=0 cellspacing=0 width=1000 class=flexibleContainer style="text-align: justify; text-justify: inter-word;">
+                                            <tr>
+                                                <td style="text-align: justify; text-justify: inter-word;" valign=top width=1000 class=flexibleContainerCell>
+                                                    <table border=0 cellpadding=30 cellspacing=0 width=100%>
+                                                        <tr>
+                                                            <td style="text-align: justify; text-justify: inter-word;" bgcolor=#E1E1E1>
+                                                                <div style=font-family:Helvetica,Arial,sans-serif;font-size:13px;color:#828282;text-align:center;line-height:120%>
+                                                                    <div>Copyright 2017 <a href=# target=_blank style=text-decoration:none;color:#828282><span style=color:#828282>E-Global</span></a>. Todos los derechos reservados.</div>
+                                                                    <div style="text-align: justify; text-justify: inter-word;">
+                                                                        AVISO DE PRIVACIDAD Servicios Electr&oacute;nicos Globales S.A. de C.V. ('E-GLOBAL') con domicilio en Buenavista No. 3, Colonia Buenavista, Delegaci&oacute;n Cuauht&eacute;moc, C.P. 06350, en M&eacute;xico, Distrito Federal, pudiera llegar a obtener, usar, divulgar o almacenar informaci&oacute;n de una persona f&iacute;sica ('Datos Personales'), supuesto en el cual E-GLOBAL se compromete a proteger su privacidad y utilizar dicha informaci&oacute;n &uacute;nica y exclusivamente para identificar a las personas que tendr&aacute;n acceso a sus instalaciones y/o para poder prestar adecuadamente y en tiempo los servicios que E-GLOBAL presta a sus clientes o para cumplir con las obligaciones que haya asumido con sus proveedores o terceros en beneficio de sus clientes o accionistas. Si Usted desea conocer nuestro aviso de privacidad integral, puede acudir a la Direcci&oacute;n de Auditor&iacute;a de E-GLOBAL, mandar un correo a dicha Direcci&oacute;n (dir-auditoria@eglobal.com.mx) o bien es visible el mismo en la entrada de las instalaciones de E-GLOBAL.
+                                                                    </div>
+                                                                </div>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+</center>

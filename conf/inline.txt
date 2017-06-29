@@ -1,0 +1,5 @@
+imgBancomerPos#/home/arturo/proyectos/Proyecto_reporte_msg_91_emisor/codigo_/Version_0.1/output/BancomerPOS20170622.png
+imgBancomerAtm#/home/arturo/proyectos/Proyecto_reporte_msg_91_emisor/codigo_/Version_0.1/output/BancomerATM20170622.png
+imgBanamexPos#/home/arturo/proyectos/Proyecto_reporte_msg_91_emisor/codigo_/Version_0.1/output/BanamexPOS20170622.png
+imgBanamexAtm#/home/arturo/proyectos/Proyecto_reporte_msg_91_emisor/codigo_/Version_0.1/output/BanamexATM20170622.png
+logo#/home/arturo/proyectos/Proyecto_reporte_msg_91_emisor/codigo_/Version_0.1/img/logoEglobal.png
